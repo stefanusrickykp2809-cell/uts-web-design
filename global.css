@@ -133,6 +133,11 @@ a {
     background-color: #597928;
 }
 
+#logo_footer{
+    width: 20px;
+    height: 20px;
+}
+
 #txt_lisen {
     opacity: 50%;
 }
